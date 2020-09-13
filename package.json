@@ -1,7 +1,7 @@
 {
   "name": "promise",
   "version": "1.0.0",
-  "description": "",
+  "description": "Native promise for js",
   "main": "promise.js",
   "scripts": {
     "test": "jest"
